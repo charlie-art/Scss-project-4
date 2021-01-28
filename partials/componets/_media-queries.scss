@@ -1,10 +1,10 @@
 /* ============================================= */
 /*              Media Queries                    */
 /* ============================================= */
-@media (min-width: 768px) {
+@media ($brk-narrow) {
 
 .container {
-  max-width: 1400px;
+  max-width: $brk-narrow;
   display: block;
   margin-left: auto;
   margin-right: auto;
