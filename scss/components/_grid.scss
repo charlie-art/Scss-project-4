@@ -1,7 +1,6 @@
 /* ============================================= */
 /*              Grid System                      */
 /* ============================================= */
-
 .container {
   padding: 0 10px;
 }
@@ -21,51 +20,51 @@
 }
 
 .theme.col-1 {
-  $color-primary:#278;
+  background-color: $color-primary;
 }
 
 .theme.col-2 {
- $color-secondary: #300;
+  background-color: $color-fourth;
 }
 
 .theme.col-3 {
-  $color-third:#450;
+  background-color: $color-secondary;
 }
 
 .theme.col-4 {
-  $color-fourth:#190;
+  background-color: $color-fourth;
 }
 
 .theme.col-5 {
-  $color-fourth:#500;
+  background-color: $color-secondary;
 }
 
 .theme.col-6 {
-  $color-primary:#278;
+  background-color: $color-third;
 }
 
 .theme.col-7 {
-$color-secondary: #300;
+  background-color: $color-secondary;
 }
 
 .theme.col-8 {
-  $color-third:#450;
+  background-color: $color-five;
 }
 
 .theme.col-9 {
-  $color-fourth:#190;
+  background-color: $color-fourth;
 }
 
 .theme.col-10 {
-  $color-fourth:#500;
+  background-color: $color-secondary;
 }
 
 .theme.col-11 {
-  $color-primary:#278;
+  background-color: $color-fourth;
 }
 
 .theme.col-12 {
-  $color-secondary: #300;
+  background-color: $color-primary;
 }
 
 .card {
