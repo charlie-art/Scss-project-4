@@ -1,7 +1,7 @@
 /* ============================================= */
 /*              Media Queries                    */
 /* ============================================= */
-$break-m: '(min-width: 768px)' {
+@media (min-width: $break-m) {
 
 .container {
   max-width: 1400px;
